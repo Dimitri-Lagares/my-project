@@ -1,6 +1,8 @@
+import QuotesList from "../components/QuotesList/QuotesList"
+
 const Quotes = () => {
   return (
-    <div>Quotes</div>
+    <QuotesList/>
   )
 }
 
